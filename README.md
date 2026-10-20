@@ -58,6 +58,24 @@ A curated collection of specialized B2B scrapers providing verified decision-mak
 
 ---
 
+
+
+---
+
+## 📦 Themed Industry Scraper Suites (Monorepos)
+
+Consolidated high-authority suites grouping specialized niche tools into comprehensive repositories:
+
+| Suite Monorepo | Industry Domain | Included Scrapers | Repository Link |
+|---|---|---|---|
+| **B2B-Wholesale-Trade-Scrapers-Suite** | Specialized Sector | **38 Production Actors** | [Explore Suite](https://github.com/asadnaeem828-dev/B2B-Wholesale-Trade-Scrapers-Suite) |
+| **Creator-Economy-Social-Scrapers-Suite** | Specialized Sector | **23 Production Actors** | [Explore Suite](https://github.com/asadnaeem828-dev/Creator-Economy-Social-Scrapers-Suite) |
+| **Local-Maps-Real-Estate-Scrapers-Suite** | Specialized Sector | **11 Production Actors** | [Explore Suite](https://github.com/asadnaeem828-dev/Local-Maps-Real-Estate-Scrapers-Suite) |
+| **ECommerce-Marketplaces-Scrapers-Suite** | Specialized Sector | **9 Production Actors** | [Explore Suite](https://github.com/asadnaeem828-dev/ECommerce-Marketplaces-Scrapers-Suite) |
+| **Specialized-Contractor-B2B-Suite** | Specialized Sector | **10 Production Actors** | [Explore Suite](https://github.com/asadnaeem828-dev/Specialized-Contractor-B2B-Suite) |
+
+---
+
 ## 📬 Contact & Custom Enterprise Scrapers
 - **Apify Profile**: [@automation_studio](https://apify.com/automation_studio)
 - **Direct Inquiries**: Open an Issue on any repository or reach out via Apify Console messages.
